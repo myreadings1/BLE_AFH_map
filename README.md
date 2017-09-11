@@ -7,3 +7,5 @@ BLE create AFH map
 Set BLE channel map
 ---
 - https://devzone.nordicsemi.com/question/77302/how-to-change-channel-map-for-exchanging-data/
+- https://devzone.nordicsemi.com/question/58680/how-to-correctly-set-channel-map-of-next-connection/
+
